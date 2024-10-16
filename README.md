@@ -26,10 +26,9 @@ Esta aplicación está desarrollada en **Swift** y permite calcular el **Índice
 4. La aplicación mostrará tu IMC y la categoría correspondiente (Bajo peso, Normal, Sobrepeso, Obesidad, etc.).
 
 ### Capturas de pantalla
-![Pantalla Principal](![1](https://github.com/user-attachments/assets/cb2eaea9-9ba8-4296-9e8d-dc23da2e1e00)
-)
-![Resultados](![Simulator Screenshot - iPhone 16 - 2024-10-13 at 21 58 15](https://github.com/user-attachments/assets/c200e486-267a-4988-92e9-a5a528a2e6a3)
-)
+![Pantalla Principal] ![1](https://github.com/user-attachments/assets/4c49094d-4da1-4b9f-a8c6-f3875604c330)
+
+![Resultados] ![Simulator Screenshot - iPhone 16 - 2024-10-13 at 21 58 15](https://github.com/user-attachments/assets/b6570e8d-2b9a-44ce-8b6e-c4be4ede5109)
 
 
 ### Fórmula del IMC
@@ -37,7 +36,6 @@ La fórmula utilizada para calcular el IMC es la siguiente:
 ```
 IMC = peso (kg) / altura² (m²)
 ```
-
 
 ### Contribuciones
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar la aplicación o has encontrado algún error, por favor abre un **issue** o envía un **pull request**.
